@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ClockifyLR</string>
+    <string name="in_time">In Time</string>
+    <string name="out_time">Out Time</string>
+    <string name="set_in_time">Set IN Time</string>
+    <string name="set_out_time">Set Out Time</string>
 </resources>
